@@ -3,6 +3,13 @@
 A map tracker for the Scooby-Doo! Night of 100 Frights Archipelago randomizer, with
 autotracking support.
 
+## Important Note
+
+This poptracker was made with the assitance of AI by me (imklubb).
+It's use was for help in coding and lining everything up visually.
+Actual design decisions, testing, assets, where created by me.
+I feel like it's fair for you to know this, in case that bothers you.
+
 ## Installation
 
 1. Download the pack zip.
@@ -13,14 +20,6 @@ autotracking support.
 Settings are applied automatically from your slot data when you connect.
 
 ## Map Legend
-
-Colors:
-
-- Green - reachable
-- Orange - some checks in that spot are reachable, others are not
-- Red - not reachable
-- Blue - warp gate you already have
-- Grey - fully checked
 
 Shapes:
 
@@ -40,9 +39,9 @@ filled in from your YAML on connect, but you can change any of it by hand.
 Row 1 - what is randomized:
 
 - Keysanity - off, on, or on with keyrings
-- Monster Tokens - tokens are items
-- Scooby Snacks - snacks are items
-- Warp Rando - warp gates are items
+- Monster Tokens
+- Scooby Snacks
+- Warp Rando
 
 Row 2 - your goal:
 
@@ -51,8 +50,6 @@ Row 2 - your goal:
 - Bosses Required
 - Monster Tokens Required
 - Scooby Snacks Required
-
-The GOAL marker on Mastermind Unmasked! 2 turns green once these are met.
 
 Row 3 - display and logic options:
 
