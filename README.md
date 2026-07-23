@@ -5,7 +5,7 @@ autotracking support.
 
 ## Important Note
 
-This poptracker was made with the assitance of AI by me (imklubb).
+This poptracker was made with the assitance of AI by me `imklubb`.
 It's use was for help in coding and lining everything up visually.
 Actual design decisions, testing, assets, where created by me.
 I feel like it's fair for you to know this, in case that bothers you.
@@ -57,6 +57,10 @@ Row 3 - display and logic options:
 - Auto Tab - switch map tabs to follow the area you are in
 - Follow Scooby - show a marker on your current room
 - Advanced, Expert, CC Early - difficulty options that open extra routes in logic
+
+## Problems
+
+Feel free to reach out to me `imklubb` or file an issue if you have any non-logic related problems!
 
 ## Credits
 
