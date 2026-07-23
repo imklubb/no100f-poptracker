@@ -5,7 +5,7 @@ autotracking support.
 
 ## Important Note
 
-This poptracker was made with the assitance of AI by me `imklubb`.
+This PopTracker was made with the assistance of AI by me `imklubb`.
 It's use was for help in coding and lining everything up visually.
 Actual design decisions, testing, assets, where created by me.
 I feel like it's fair for you to know this, in case that bothers you.
