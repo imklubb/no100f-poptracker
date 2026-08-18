@@ -1,0 +1,45 @@
+{
+	"setting_grid": {
+		"type": "itemgrid",
+		"item_margin": "2, 2",
+		"item_h_alignment": "center",
+		"h_alignment": "left",
+		"item_size": "64",
+		"rows": [
+			[
+				"blank_setting",
+				"keysanity",
+				"tokensanity",
+				"snacksanity",
+				"warprando"
+			],
+			[
+				"blank_setting",
+				"goal_type",
+				"goal_boss_count",
+				"goal_token_count",
+				"goal_snack_count"
+			],
+			[
+				"warpgates_map",
+				"auto_tab",
+				"follow_scooby",
+				"op_advanced_on",
+				"op_expert_on",
+				"op_creepy_on"
+			]
+		]
+	},
+	"settings_popup": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "group",
+			"header": "Settings",
+			"content": {
+				"type": "layout",
+				"key": "setting_grid"
+			}
+		}
+	}
+}

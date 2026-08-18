@@ -1,0 +1,244 @@
+{
+	"keyrings_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"h_alignment": "center",
+		"margin": "25,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "DSK",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"knightkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "TSGP",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"graveplotkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CG",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"coastkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "DLD",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"don'tlookdownkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "FC",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"fishyclueskeyring"
+								]
+							]
+						}
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "CM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"clamor1keyring"
+								],
+								[
+									"clamor4keyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CCH",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"creepy2keyring"
+								],
+								[
+									"creepy3keyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GDDT",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"tomb1keyring"
+								],
+								[
+									"tomb3keyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GAU",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"gusts1keyring"
+								],
+								[
+									"gusts2keyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "WYC",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cellar2keyring"
+								],
+								[
+									"cellar3keyring"
+								]
+							]
+						}
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "MYM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"mindyourmanorskeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "MCCI",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cave-inkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "PA",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"attickeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "SYT",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"shiverkeyring"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "MM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"fishingvillagekeyring"
+								],
+								[
+									"hedgemazekeyring"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+	}
+}

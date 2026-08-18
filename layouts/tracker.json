@@ -1,0 +1,90 @@
+{
+	"tracker_default": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "dock",
+					"dock": "left",
+					"v_alignment": "top",
+					"margin": 0,
+					"content": [
+						{
+							"type": "group",
+							"header": "Items",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"h_alignment": "center",
+								"v_alignment": "center",
+								"key": "shared_item_grid"
+							}
+						},
+						{
+							"type": "group",
+							"header": "Collectables",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"h_alignment": "center",
+								"v_alignment": "center",
+								"key": "collectables_grid"
+							}
+						},
+						{
+							"type": "group",
+							"header": "Warps",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"h_alignment": "center",
+								"v_alignment": "center",
+								"key": "warps_grid"
+							}
+						}
+					]
+				},
+				{
+					"type": "dock",
+					"dock": "left",
+					"v_alignment": "top",
+					"margin": 0,
+					"content": [
+						{
+							"type": "group",
+							"header": "Keys",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"h_alignment": "center",
+								"v_alignment": "center",
+								"key": "keys_grid"
+							}
+						},
+						{
+							"type": "group",
+							"header": "Keyrings",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"h_alignment": "center",
+								"v_alignment": "center",
+								"key": "keyrings_grid"
+							}
+						}
+					]
+				},
+				{
+					"type": "dock",
+					"content": {
+						"type": "layout",
+						"key": "tabbed_maps"
+					}
+				}
+			]
+		}
+	}
+}

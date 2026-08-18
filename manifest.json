@@ -1,0 +1,16 @@
+{
+	"name": "Scooby Doo Night of 100 Frights Archipelago",
+	"game_name": "Scooby Doo Night of 100 Frights",
+	"package_version": "1.0.1",
+	"package_uid": "ap_n100f",
+	"author": "vgm5, DeltaJordan, imklubb, Claude",
+	"variants": {
+		"standard": {
+			"display_name": "Map Tracker",
+			"flags": [
+				"ap"
+			]
+		}
+	},
+	"versions_url": "https://raw.githubusercontent.com/imklubb/no100f-poptracker/main/versions.json"
+}

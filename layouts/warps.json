@@ -1,0 +1,398 @@
+{
+	"warps_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"h_alignment": "left",
+		"margin": "0,0,0,0",
+		"content": [
+		{
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0,0,0",
+		"content": [
+			{
+				"type": "group",
+				"header": "KNT",
+				"content": {
+					"type": "itemgrid",
+					"item_size": "32",
+						"rows": [
+						[
+							"knightwarp"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "GP",
+				"content": {
+					"type": "itemgrid",
+					"item_size": "32",
+					"rows": [
+						[
+							"graveplotwarp"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "CST",
+				"content": {
+					"type": "itemgrid",
+					"item_size": "32",
+					"rows": [
+						[
+							"coastwarp"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "ATC",
+				"content": {
+					"type": "itemgrid",
+					"item_size": "32",
+					"rows": [
+						[
+							"atticwarp"
+						]
+					]
+				}
+			},
+			{
+				"type": "group",
+				"header": "FC",
+				"content": {
+					"type": "itemgrid",
+					"item_size": "32",
+					"rows": [
+						[
+							"fishyclueswarp"
+						]
+					]
+				}
+			}
+		]
+		},
+		{
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "CLR",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cellarwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CLF",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cliffwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "HDG",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"hedgewarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GRN",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"greenhousewarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "HLL",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"hillwarp"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+		},
+		{
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "DCK",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"dockwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CWR",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cowerwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CRY",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cryptwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "TMB",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"tombwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "MYM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"mymwarp"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+		},
+		{
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "LHT",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"lighthousewarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CRP",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"creepywarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GST",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"gustswarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "UPS",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"upstairswarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CLM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"clamorwarp"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+		},
+		{
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "MG",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"monstergallerywarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "WTC",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"witchwaywarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "AGH",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"aghastwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "WRK",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"wreckwarp"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "LAB",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"labwarp"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+	}
+]
+	}
+}

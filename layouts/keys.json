@@ -1,0 +1,244 @@
+{
+	"keys_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"h_alignment": "center",
+		"margin": "25,0,0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "DSK",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"knightkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "TSGP",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"graveplotkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CG",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"coastkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "DLD",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"don'tlookdownkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "FC",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"fishyclueskey"
+								]
+							]
+						}
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "CM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"clamor1key"
+								],
+								[
+									"clamor4key"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "CCH",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"creepy2key"
+								],
+								[
+									"creepy3key"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GDDT",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"tomb1key"
+								],
+								[
+									"tomb3key"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "GAU",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"gusts1key"
+								],
+								[
+									"gusts2key"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "WYC",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cellar2key"
+								],
+								[
+									"cellar3key"
+								]
+							]
+						}
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "group",
+						"header": "MYM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"mindyourmanorskey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "MCCI",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"cave-inkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "PA",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"attickey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "SYT",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"shiverkey"
+								]
+							]
+						}
+					},
+					{
+						"type": "group",
+						"header": "MM",
+						"content": {
+							"type": "itemgrid",
+							"item_size": "32",
+							"rows": [
+								[
+									"fishingvillagekey"
+								],
+								[
+									"hedgemazekey"
+								]
+							]
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "versions": [
+        {
+            "package_version": "1.0.1",
+            "download_url": "https://github.com/imklubb/no100f-poptracker/releases/download/v1.0.1/ap_n100f_1.0.1.zip",
+            "sha256": "acacb22059574fb97536949d3dfd4b16aaf90f452a7a1b37c44fb0ba288bece8",
+            "changelog": [
+                "Regenerated logic from the latest NO100F apworld (archipelago.json version 7)",
+                "Boss-goal checks now verify the boss room is actually reachable",
+                "Region reachability uses a fixpoint sweep matching Archipelago exactly",
+                "Added pack auto-update via versions.json",
+                "Removed unused/empty logic scripts and fixed invalid Lua in item_names.lua"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "snack_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": 0,
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": 0,
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": 2,
+                        "h_alignment": "left",
+                        "item_size": "32",
+                        "rows": [
+                            [
+                                "scoobysnack"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "hub",
+		"location_size": 32,
+		"location_border_thickness": 1,
+		"img": "images/maps/hub.png"
+	},
+	{
+		"name": "cove",
+		"location_size": 32,
+		"location_border_thickness": 1,
+		"img": "images/maps/cove.png"
+	},
+	{
+		"name": "hedge",
+		"location_size": 32,
+		"location_border_thickness": 1,
+		"img": "images/maps/hedge.png"
+	},
+	{
+		"name": "manor",
+		"location_size": 32,
+		"location_border_thickness": 1,
+		"img": "images/maps/manor.png"
+	}
+]
