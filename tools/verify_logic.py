@@ -264,6 +264,12 @@ class RefWorld:
     def get_region(self, name, player):
         return self.regions[name]
 
+    def register_indirect_condition(self, region, entrance):
+        # Archipelago uses this to know when to re-sweep after a region opens up.
+        # The reference model already re-evaluates every entrance on every pass
+        # until nothing changes, so the hint is redundant here.
+        pass
+
     @property
     def completion_condition(self):
         return {}
