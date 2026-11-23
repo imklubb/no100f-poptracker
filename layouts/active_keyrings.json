@@ -1,0 +1,15 @@
+// Swapped in at runtime by scripts/keysanity_layout.lua - see README.
+{
+	"active_keys_grid": {
+		"type": "layout",
+		"key": "keyrings_grid"
+	},
+	"active_keys_grid_compact": {
+		"type": "layout",
+		"key": "keyrings_grid_compact"
+	},
+	"active_keys_grid_broadcast": {
+		"type": "layout",
+		"key": "keyrings_grid_broadcast"
+	}
+}

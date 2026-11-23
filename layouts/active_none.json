@@ -1,0 +1,21 @@
+// Swapped in at runtime by scripts/keysanity_layout.lua - see README.
+{
+	"active_keys_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": 0,
+		"content": []
+	},
+	"active_keys_grid_compact": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": 0,
+		"content": []
+	},
+	"active_keys_grid_broadcast": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": 0,
+		"content": []
+	}
+}

@@ -22,5 +22,11 @@
 		"location_size": 32,
 		"location_border_thickness": 1,
 		"img": "images/maps/manor.png"
+	},
+	{
+		"name": "all",
+		"location_size": 32,
+		"location_border_thickness": 1,
+		"img": "images/maps/all.png"
 	}
 ]

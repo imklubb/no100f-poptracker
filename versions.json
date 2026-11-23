@@ -1,6 +1,23 @@
 {
     "versions": [
         {
+            "package_version": "1.1.0",
+            "download_url": "https://github.com/imklubb/no100f-poptracker/releases/download/v1.1.0/ap_n100f_1.1.0.zip",
+            "sha256": "355029f1f44b37fd539434cf7b41abdf34520b6df97219b5ce1ee0c09e68e86a",
+            "changelog": [
+                "Broadcast view is a tall narrow overlay showing Items, Collectables and Keys",
+                "Key and keyring nameplates carry their own key art",
+                "In portrait the key groups sit in two columns and the group bars no longer stretch across the window",
+                "Keyrings are toggles rather than consumables, so they no longer paint a redundant 1 over the art",
+                "Boss reward checks show their monster token instead of the generic flower chest",
+                "Renamed the default variant to Individual Maps, alongside the All Maps variant",
+                "Keys grouped by map and sorted alphabetically; the section hides entirely when keys are not randomized",
+                "All Maps is a pack variant rather than a tab, with pins sized to the map art",
+                "Removed the Warps grid; warps are already shown on the map and the items stay registered",
+                "Logic regenerated for NO100F apworld 1.4.2"
+            ]
+        },
+        {
             "package_version": "1.0.2",
             "download_url": "https://github.com/imklubb/no100f-poptracker/releases/download/v1.0.2/ap_n100f_1.0.2.zip",
             "sha256": "31b3732278ead3c6e08d22cc59688d74e5dd246e53c7b434610c8420f15cabad",

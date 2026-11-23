@@ -257,7 +257,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/knightkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "knightkey"
 	},
 	{
@@ -265,7 +267,9 @@
 		"type": "consumable",
 		"max_quantity": 3,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/graveplotkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "graveplotkey"
 	},
 	{
@@ -273,7 +277,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/mindyourmanorskey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "mindyourmanorskey"
 	},
 	{
@@ -281,7 +287,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/coastkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "coastkey"
 	},
 	{
@@ -289,7 +297,9 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/clamor1key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "clamor1key"
 	},
 	{
@@ -297,7 +307,9 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/clamor4key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "clamor4key"
 	},
 	{
@@ -305,7 +317,9 @@
 		"type": "consumable",
 		"max_quantity": 5,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/creepy2key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "creepy2key"
 	},
 	{
@@ -313,7 +327,9 @@
 		"type": "consumable",
 		"max_quantity": 3,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/creepy3key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "creepy3key"
 	},
 	{
@@ -321,7 +337,9 @@
 		"type": "consumable",
 		"max_quantity": 3,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/dontlookdownkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "don'tlookdownkey"
 	},
 	{
@@ -329,7 +347,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/fishyclueskey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "fishyclueskey"
 	},
 	{
@@ -337,7 +357,9 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/tomb1key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "tomb1key"
 	},
 	{
@@ -345,7 +367,9 @@
 		"type": "consumable",
 		"max_quantity": 2,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/tomb3key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "tomb3key"
 	},
 	{
@@ -353,7 +377,9 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/gusts1key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "gusts1key"
 	},
 	{
@@ -361,7 +387,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/gusts2key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "gusts2key"
 	},
 	{
@@ -369,7 +397,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/cave-inkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "cave-inkey"
 	},
 	{
@@ -377,7 +407,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/shiverkey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "shiverkey"
 	},
 	{
@@ -385,7 +417,9 @@
 		"type": "consumable",
 		"max_quantity": 3,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/cellar2key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "cellar2key"
 	},
 	{
@@ -393,7 +427,9 @@
 		"type": "consumable",
 		"max_quantity": 4,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/cellar3key.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "cellar3key"
 	},
 	{
@@ -401,7 +437,9 @@
 		"type": "consumable",
 		"max_quantity": 3,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/attickey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "attickey"
 	},
 	{
@@ -409,7 +447,9 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/fishingvillagekey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "fishingvillagekey"
 	},
 	{
@@ -417,176 +457,136 @@
 		"type": "consumable",
 		"max_quantity": 1,
 		"initial_quantity": 0,
-		"img": "/images/items/key.png",
+		"img": "/images/items/keys/hedgemazekey.png",
+		"overlay_background": "#000000",
+		"overlay_align": "left",
 		"codes": "hedgemazekey"
 	},
 	// Keyrings
 	{
 		"name": "A Dark and Stormy Knight! 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/knightkeyring.png",
 		"codes": "knightkeyring"
 	},
 	{
 		"name": "A Tight Spot for a Grave Plot! 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/graveplotkeyring.png",
 		"codes": "graveplotkeyring"
 	},
 	{
 		"name": "Mind Your Manors! 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/mindyourmanorskeyring.png",
 		"codes": "mindyourmanorskeyring"
 	},
 	{
 		"name": "Coast for some Ghosts! 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/coastkeyring.png",
 		"codes": "coastkeyring"
 	},
 	{
 		"name": "Clamor in the Manor! 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/clamor1keyring.png",
 		"codes": "clamor1keyring"
 	},
 	{
 		"name": "Clamor in the Manor! 4 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/clamor4keyring.png",
 		"codes": "clamor4keyring"
 	},
 	{
 		"name": "Creepy Crawlies in the Hallways 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/creepy2keyring.png",
 		"codes": "creepy2keyring"
 	},
 	{
 		"name": "Creepy Crawlies in the Hallways 3 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/creepy3keyring.png",
 		"codes": "creepy3keyring"
 	},
 	{
 		"name": "Don't Look Down, Scooby-Doo! 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/dontlookdownkeyring.png",
 		"codes": "don'tlookdownkeyring"
 	},
 	{
 		"name": "Fishy Clues for Scooby-Doo? 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/fishyclueskeyring.png",
 		"codes": "fishyclueskeyring"
 	},
 	{
 		"name": "Gloom & Doom Down in the Tomb! 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/tomb1keyring.png",
 		"codes": "tomb1keyring"
 	},
 	{
 		"name": "Gloom & Doom Down in the Tomb! 3 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/tomb3keyring.png",
 		"codes": "tomb3keyring"
 	},
 	{
 		"name": "Gusts Abound Underground 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/gusts1keyring.png",
 		"codes": "gusts1keyring"
 	},
 	{
 		"name": "Gusts Abound Underground 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/gusts2keyring.png",
 		"codes": "gusts2keyring"
 	},
 	{
 		"name": "Misbehavin'? Cause a Cave In 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/cave-inkeyring.png",
 		"codes": "cave-inkeyring"
 	},
 	{
 		"name": "Shiver Your Timbers, Scooby! 1 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/shiverkeyring.png",
 		"codes": "shiverkeyring"
 	},
 	{
 		"name": "Who's Yella' in the Cellar? 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/cellar2keyring.png",
 		"codes": "cellar2keyring"
 	},
 	{
 		"name": "Who's Yella' in the Cellar? 3 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/cellar3keyring.png",
 		"codes": "cellar3keyring"
 	},
 	{
 		"name": "Panic in the Attic! 2 Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/attickeyring.png",
 		"codes": "attickeyring"
 	},
 	{
 		"name": "Fishing Village Keyring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/fishingvillagekeyring.png",
 		"codes": "fishingvillagekeyring"
 	},
 	{
 		"name": "Hedge Maze Key Ring",
-		"type": "consumable",
-		"max_quantity": 1,
-		"initial_quantity": 0,
-		"img": "/images/items/keyring.png",
+		"type": "toggle",
+		"img": "/images/items/keyrings/hedgemazekeyring.png",
 		"codes": "hedgemazekeyring"
 	},
     // Warpgates

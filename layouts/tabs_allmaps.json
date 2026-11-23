@@ -1,0 +1,9 @@
+// Loaded instead of tabs.json for the "All Maps" variant (see scripts/init.lua).
+{
+	"tabbed_maps": {
+		"type": "map",
+		"maps": [
+			"all"
+		]
+	}
+}

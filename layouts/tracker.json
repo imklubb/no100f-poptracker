@@ -15,65 +15,89 @@
 						{
 							"type": "group",
 							"header": "Items",
-							"dock": "top",
 							"content": {
 								"type": "layout",
 								"h_alignment": "center",
 								"v_alignment": "center",
 								"key": "shared_item_grid"
-							}
+							},
+							"dock": "top"
 						},
 						{
 							"type": "group",
 							"header": "Collectables",
-							"dock": "top",
 							"content": {
 								"type": "layout",
 								"h_alignment": "center",
 								"v_alignment": "center",
 								"key": "collectables_grid"
-							}
+							},
+							"dock": "top"
 						},
 						{
-							"type": "group",
-							"header": "Warps",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "warps_grid"
-							}
+							"type": "layout",
+							"key": "active_keys_grid",
+							"dock": "top"
 						}
 					]
 				},
 				{
 					"type": "dock",
-					"dock": "left",
-					"v_alignment": "top",
+					"content": {
+						"type": "layout",
+						"key": "tabbed_maps"
+					}
+				}
+			]
+		}
+	},
+	"tracker_vertical": {
+		"type": "container",
+		"background": "#000000",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "dock",
+					"dock": "bottom",
+					"h_alignment": "left",
 					"margin": 0,
 					"content": [
 						{
-							"type": "group",
-							"header": "Keys",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "keys_grid"
-							}
+							"type": "array",
+							"dock": "left",
+							"orientation": "vertical",
+							"h_alignment": "left",
+							"v_alignment": "top",
+							"margin": 0,
+							"content": [
+								{
+									"type": "group",
+									"header": "Items",
+									"content": {
+										"type": "layout",
+										"h_alignment": "center",
+										"v_alignment": "center",
+										"key": "shared_item_grid_compact"
+									}
+								},
+								{
+									"type": "group",
+									"header": "Collectables",
+									"content": {
+										"type": "layout",
+										"h_alignment": "center",
+										"v_alignment": "center",
+										"key": "collectables_grid_compact"
+									}
+								}
+							]
 						},
 						{
-							"type": "group",
-							"header": "Keyrings",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "keyrings_grid"
-							}
+							"type": "layout",
+							"key": "active_keys_grid_compact",
+							"dock": "left"
 						}
 					]
 				},

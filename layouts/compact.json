@@ -1,0 +1,72 @@
+{
+	"shared_item_grid_compact": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": 0,
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": 0,
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": 1,
+						"h_alignment": "left",
+						"item_size": "32",
+						"rows": [
+							[
+								"bootspowerup",
+								"plungerspower",
+								"helmetpower",
+								"shovelpower"
+							],
+							[
+								"progressivesneakupgrade",
+								"progressivejumpupgrade",
+								"groundpoundpower",
+								"shockwavepower"
+							],
+							[
+								"bubblegumpower",
+								"soapbubblepower",
+								"maxgumammo",
+								"maxsoapammo"
+							]
+						]
+					}
+				]
+			}
+		]
+	},
+	"collectables_grid_compact": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": 0,
+		"h_alignment": "left",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": 2,
+				"h_alignment": "left",
+				"item_size": "32",
+				"rows": [
+					[
+						"progressivemonstertoken"
+					]
+				]
+			},
+			{
+				"type": "itemgrid",
+				"item_margin": 2,
+				"h_alignment": "left",
+				"item_size": "32",
+				"rows": [
+					[
+						"scoobysnack"
+					]
+				]
+			}
+		]
+	}
+}

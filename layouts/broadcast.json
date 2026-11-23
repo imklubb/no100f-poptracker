@@ -1,24 +1,37 @@
-//sets the layout for the broadcast view
+//sets the layout for the broadcast view - a tall, narrow overlay
+// Keys follow the Keysanity setting via active_keys_grid_broadcast, so they
+// disappear here too when keys are not randomized.
 {
 	"tracker_broadcast": {
 		"type": "array",
 		"orientation": "vertical",
-		"margin": "0,0",
+		"h_alignment": "left",
+		"v_alignment": "top",
+		"margin": 0,
 		"content": [
 			{
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": "0,0",
-				"content": [
-					{
-						"type": "layout",
-						"key": "shared_item_grid"
-					},
-					{
-						"type": "layout",
-						"key": "event_grid"
-					}
-				]
+				"type": "group",
+				"header": "Items",
+				"content": {
+					"type": "layout",
+					"h_alignment": "center",
+					"v_alignment": "center",
+					"key": "shared_item_grid_compact"
+				}
+			},
+			{
+				"type": "group",
+				"header": "Collectables",
+				"content": {
+					"type": "layout",
+					"h_alignment": "center",
+					"v_alignment": "center",
+					"key": "collectables_grid_compact"
+				}
+			},
+			{
+				"type": "layout",
+				"key": "active_keys_grid_broadcast"
 			}
 		]
 	}
